@@ -1,0 +1,47 @@
+body{
+	background: #E2B49A;
+	font-color:#193446;
+	font-family: 'Playfair Display', serif;
+}
+.navbar.scrolled{
+ 	background: #E2B49A;
+ 	transition: background 500ms;
+ }
+#header{
+	background: url(img/header.jpg);
+	background-size: cover;
+	background-position: center;
+}
+#mainnav .navbar-brand{
+	color: #193446;
+	font-size:1.5rem;
+	line-height:2;
+	}
+#mainnav .nav-link:hover{
+ 	color:#193446;
+ }
+ #content{
+ 	text-align: center;
+ 	padding-top:40%;
+ }
+
+ #content1{
+ 	text-align: center;
+ 	color:#193446;
+ 	padding-botton:25%;
+ 	
+ }
+ #gallery span{
+ 	color:#E9E77B;
+ }
+
+ #header span{
+ 	color: #E2B49A;
+ }
+
+ #About span{
+ 	color: #E9E77B;
+ }
+ #contact span{
+ 	color: #E9E77B;
+ }
